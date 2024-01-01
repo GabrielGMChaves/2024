@@ -7,4 +7,5 @@ Rules:
 - I need to develop relevant projects (at least 1 per month).
 - I need to consider this as my main focus, as it is not an easy task.
 
+Remember, this is not about the commits, it's about learning and practicing every day. It's about failing and learning with my failures, to later succeed.
 With that in mind, let's go!
