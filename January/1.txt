@@ -1,0 +1,9 @@
+Day 1 - 01/01/2024
+
+Today I've started by watching a few vídeos from Mo Chen (https://www.youtube.com/@mo-chen) with tips and roadmaps on how to learn about Data Science.
+First I need to take a step back and admit I'm not in my best moment in my career, I've not studied Python and data libraries for a good time, so re-learning the basics would be the first step.
+I'll give myself till the end of this week (07/01/2024) to complete the following steps:
+- Re-visit Python basics (loops, dictionaries, classes, etc.).
+- Re-visit pandas, matplotlib and numpy.
+- Start working on 1 Project with those libs.
+I will succeed!
