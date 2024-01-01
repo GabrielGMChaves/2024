@@ -4,7 +4,7 @@ My main focus in this year is to learn and develop skills regarding data analysi
 
 Rules:
 - I need to keep updating this each day of the year.
-- I need to develop relevant projects (at least 1 for per month).
+- I need to develop relevant projects (at least 1 per month).
 - I need to consider this as my main focus, as it is not an easy task.
 
 With that in mind, let's go!
