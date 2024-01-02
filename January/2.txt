@@ -1,0 +1,6 @@
+Day 2 - 02/01/2024
+
+Today I've chose to start my study session following this video by freeCodeCamp, (https://www.youtube.com/watch?v=LHBE6Q9XlzI&t=24770s).
+I've re-learned the basics about Python, installed Anaconda on my computer and wrote a few lines of code.
+The plan tomorrow is to keep on watching the video and complete the NumPy tutorial.
+Today was a good day :)
