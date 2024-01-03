@@ -2,5 +2,5 @@ Day 3 - 03/01/2024
 
 Today, most of what I've learned was about Numpy, I've continued watching the 12 hour long video from freeCodeCamp and learned some NumPy functions.
 The plan tomorrow is to finish the NumPy session on the video and start the Pandas session.
-I'm becoming a better version of me step by step.
+I'm becoming a better version of myself step by step.
 
