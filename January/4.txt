@@ -1,0 +1,13 @@
+Day 4 - 04/01/2024
+
+Things are getting more interesting by the day!
+I've finished the NumPy session from the video and watched half of the Pandas one. 
+The mission tomorrow is to finish the Pandas session and start learning Matplotlib.
+
+Things I've learned today:
+- How to extract numbers from an array by their indexes.
+- How to reshape multidimensional arrays.
+- How to stack arrays vertically and horizontally.
+- The basics about Pandas' Series and Dataframes.
+
+Nice! :)
