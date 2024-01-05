@@ -1,0 +1,15 @@
+Day 5 - 05/01/2024
+
+Today I've finished the pandas session from the video, learned how to load a csv into a pandas dataframe and how to manipulate it to bring the info I need.
+My background knowledge from SQL and csv manipulation for data loads really seemed to help me understand the tutorial's content easier.
+
+Main functions:
+df.drop() - used to drop columns 
+df.rename() - used to rename columns (IMPORTANT: 'inplace=True' needs to be used to update dataframe info)
+df['Date'] = pd.to_datetime(df['Date']) - changes the type to datetime on a column
+df.head(x) - brings up x first records from the dataframe
+df.info() - detailed information about the dataframe
+df.groupby(x) - same as group by from SQL
+df2.sort_values(by='x') - same as order by from SQL
+
+Lots of great stuff today!
