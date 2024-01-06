@@ -1,0 +1,6 @@
+Day 6 - 06/01/2024
+
+Today I've finished watching the freeCodeCamp tutorial and learned tons about data manipulation in Python.
+I've completed a simple project, showing covid 19 stats throughout the days in many countries using a csv dataset.
+Next step is to do a customized project on another theme that I'll be choosing tomorrow.
+I slowly feel like this is going to work out great, it feels like I'm really learning new stuff every day.
