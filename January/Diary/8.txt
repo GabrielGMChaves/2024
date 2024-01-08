@@ -1,0 +1,10 @@
+Day 8 - 08/01/2024
+
+Today, I've decided to practice working with datasets from Kaggle, the one that I chose today had a few issues with it, so I had to clean the data.
+I've learned how to detect and delete duplicates, learned to merge multiple columns into one and to do general data cleaning.
+The plan tomorrow is to keep on working with this dataset in order to create multiple visualizations from it, including:
+
+- Times where the cars crash the most
+- Locations with the most crashes
+- Visualization of types of crashes
+- Total crashes throughout the years
