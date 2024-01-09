@@ -1,0 +1,4 @@
+Day 9 - 09/01/2024
+
+Today I've completed the 4 visualizations I've challenged myself to do.
+My goal tomorrow is to do the same 4 visualizations using seaborn on the same dataset.
