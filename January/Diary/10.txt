@@ -1,0 +1,9 @@
+Day 10 - 10/01/2024
+
+Today I've made the 4 visualizations in seaborn to learn more about that lib's syntax.
+My greatest difficulty was to fix/clean the dataframe as it was in a real bad shape.
+Thankfully I've managed to do it and completed the challenge I've set to myself.
+The goal tomorrow is to complete a course/certification regarding Data Science/Analysis (Probably the one I've found from FIAP).
+
+I've managed to study 10 days straight, yay! :)
+
