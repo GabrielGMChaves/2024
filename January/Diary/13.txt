@@ -1,0 +1,6 @@
+Day 13 - 13/01/2024
+
+Today I've watched some of the videos from the Big Data & Analytics course by FIAP.
+I had my first experience with R and Tableau, so my goal next week will be to dig deeper into those two.
+Taking a peek at the rest of the course, it seems like I'll be able to complete it till the end of the week, so that's still my goal.
+Tableau seems to be a paid software, so I'll have to work that out.
