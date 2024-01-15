@@ -1,0 +1,6 @@
+Day 15 - 15/01/2024
+
+Today I've finished a course that I've first started watching last year (Computational IA from FIAP).
+My goal for the rest of the week is to find a topic and start working on a small project till the end of the week.
+It needs to cover AI and data visualization, so probably Python and Tableau will be used.
+ 
