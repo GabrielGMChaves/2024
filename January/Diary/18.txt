@@ -1,0 +1,7 @@
+Day 18 - 18/01/2024
+
+Today I've tried to finish the test from the course but unfortunately I've failed.
+My next plan for this week will be to use the dataSet I've gathered myself to create interesting data visualizations.
+I need to change everything in the dataSet to guarantee no sensible information gets shared.
+
+That's it :)
