@@ -1,0 +1,5 @@
+Day 19 - 19/01/2024
+
+Today I've extracted the correct data from the system and started working on some charts with it.
+The plan for this weekend is to finish the visualizations with the data.
+That's it :)
