@@ -1,0 +1,5 @@
+Day 20 - 20/01/2024
+
+Not much to see today, I've basically worked on learning a bit more about pie charts and legends, but got a bit stuck with it.
+I need to search how to label correctly a pie chart.
+Still need to complete the visualizations till tomorrow.
