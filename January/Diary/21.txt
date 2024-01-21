@@ -1,0 +1,5 @@
+Day 21 - 21/01/2024
+
+I did all the visualizations I could think of on the dataframe, so I'd say I've completed the challenge.
+Challenge next week is to either start that Google Data Course or the IBM one.
+Really looking forward to it! :)
