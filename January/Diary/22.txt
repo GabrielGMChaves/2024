@@ -1,0 +1,11 @@
+Day 22 - 22/01/2024
+
+Today I've downloaded a dataframe about Youtubers and started learning more about data cleaning.
+My objective is to do more research on how to clean and check the data to prepare it for the visualizations.
+So far, I've detected the following problems with the dataframe:
+
+-Youtuber column full of "ý" digits, which needs cleaning
+-Year, day and month separated in three different columns with wrong data types
+-Columns with NaN data
+
+That's what I've found so far, I still need to find all the problems with the data to do some visualizations with it.
