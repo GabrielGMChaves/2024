@@ -1,0 +1,8 @@
+Day 23 - 23/01/2024
+
+Today I've got the 'ý' digit thing fixed on the dataframe and next step is to fix the rest of the data.
+I'm running a bit low of ideas on what to study next, it might be a good idea to start a new course.
+That way at least I'll be for sure learning something, that Google data course has been really dragging my attention lately, mainly because it's using a new language (R) and I feel like I need to get a bit out of my comfort zone to really delve into this whole Data Science thing.
+I'm really inclined to start that course this week, let's see how it goes, because it's a bit expensive (at least for me).
+
+That's it.
