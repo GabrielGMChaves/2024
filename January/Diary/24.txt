@@ -1,0 +1,12 @@
+Day 24 - 24/01/2024
+
+Today I've started the Google Data Analytics Professional Certificate Course.
+Here's what I've learned today:
+
+Data Analytics is the science of data, everything about data fits under the Data Analytics umbrella.
+
+Data Analysis is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making.
+
+Data science is defined by creating new ways of modeling and understanding the unknown by using raw data.
+
+Data scientists create new questions using data, while data analysts find answers to existing questions by creating insights from data sources. 
