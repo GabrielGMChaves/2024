@@ -1,0 +1,27 @@
+Day 24 - 24/01/2024
+
+Today I've watched some more videos from the Google Data Analytics course, here's what I've learned:
+
+The 5 aspects of analytical thinking:
+
+-Visualization
+-Strategy
+-Problem-orientation
+-Correlation
+-Big-picture and detail-oriented thinking
+
+Ask "why" 5 times to draw better conclusions of the root cause.
+
+Ask - Prepare - Process - Analyze - Share - Act
+
+Ask: Understand the root cause and indentify the problems that need to be fixed.
+
+Prepare: Collect, extract and store useful data.
+
+Process: Clean, transform and combine meaningful data.
+
+Analyze: Use tools to transform and organize data.
+
+Share: In this phase, data is now in its visual shape in order to be easily shared and digested.
+
+Act: This is where the data-driven decisions are made after all the other steps.
