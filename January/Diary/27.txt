@@ -1,0 +1,31 @@
+Day 27 - 27/01/2024
+
+Summary of things learned today:
+
+Before solving a problem, we need to understand it, so we don't need to start all over again.
+
+A scope of work might be a great way to define and erase any doubts about the projects and its requirements.
+
+Communication is key, if you feel like you might be doing something they not need, take your time to confirm wheter that's the right thing or not.
+
+Focus on what matters, ask yourself these 3 questions:
+Who are the stakeholders?
+Who's managing this data?
+Where can you go for help?
+
+Solve the problem:
+Who's your audience?
+What they already know?
+What they need to know?
+How to communicate this to them effectively?
+
+Always present clear and objective emails for better communication with the team and the stakeholders.
+
+Meetings best practices:
+Come prepared - Bring what you need, read the agenda, prepare notes, be ready to answer questions.
+Be on time - Just be on time.
+Pay attention - Take notes, stay on focus.
+Ask questions - Ask questions to better understand what's being talked about.
+
+
+
