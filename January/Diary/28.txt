@@ -1,0 +1,33 @@
+Day 28 - 28/01/2024
+
+Summary of things learned today:
+
+How data is collected:
+-Interviews
+-Observations
+-Forms
+-Questionnaires
+-Surveys
+
+1st party - Data collected from within the company using its resources.
+
+2nd party - Data collected by a group directly from its audience and then sold.
+
+3rd party - Data collected from outside sources who did not collect it directly.
+
+Important considerations on data collection:
+-How the data will be collected?
+-Choose data sources
+-Decide what data to use
+-How much data to collect
+-Select the right data type
+-Determine the time frame
+
+Good data should not be biased, analyse the source and questions used to collect the data, also the population needs to be corretly represented.
+
+Good Data "ROCCCs"
+Reliable
+Original
+Comprehensive
+Current 
+Cited
