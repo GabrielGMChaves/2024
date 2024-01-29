@@ -1,0 +1,23 @@
+Day 29 - 29/01/2024
+
+Summary of things learned today:
+
+Metadata is data about data, i.e. data from an image.
+
+Best practices when organizing data:
+-Naming conventions.
+-Foldering.
+-Archiving older files.
+-Align your naming and storage practices with your team.
+
+File naming DO's
+-Work out your conventions early.
+-Align file naming with your team.
+-Make sure file names are meaningful.
+-Keep file names short and sweet.
+-Format dates yyyymmdd: SalesReport20201125.
+-Lead revision numbers with 0: SalesReport1125v02.
+-Use hyphens, underscores, or capitalized letters:
+SalesReport_2020_11_25_v02.
+
+Next step, data cleaning (FINALLY)
