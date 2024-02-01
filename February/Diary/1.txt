@@ -1,0 +1,5 @@
+Day 32 - 1/02/2024
+
+Today my task was to complete the challenge I first started yesterday, but unfortunately I wasn't able to complete it.
+Tomorrow I'll keep on trying to complete it, but if I can't is okay, since it is a mid level challenge (I'm still a Junior).
+Looking on the bright side of things, I've learned some stuff about APIs and json.
