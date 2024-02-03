@@ -1,0 +1,6 @@
+Day 34 - 03/02/2024
+
+Unfortunately I forgot to complete my task to post what I did yesterday, but that does not mean that I've forgot to study.
+I spent most of my time yesterday and today completing the challenge, which was basically to get a dataset, use the OpenAI playground to read a csv file and retrieve info for each line on the dataset, then, inside their system develop some visualizations for the extracted and transformed data.
+
+It was really good to participate in such challenge, because I learned more about APIs and how to use them in Python to retrieve and send information.
