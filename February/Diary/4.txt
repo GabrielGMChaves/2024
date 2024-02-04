@@ -1,0 +1,7 @@
+Day 35 - 04/02/2024
+
+Today was a really productive day, I've developed a Python code that allowed me to use information from a dataframe to generate images from the texts inside the dataframe.
+It really was a pleasant experience to go through all the steps to think on how to develop this solution.
+It's currently 20:40 and I'm finishing the documentation for this project.
+If I don't finish it by today, my task will be to finish it tomorrow.
+That's it.
