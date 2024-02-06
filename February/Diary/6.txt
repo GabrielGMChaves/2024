@@ -1,0 +1,4 @@
+Day 37 - 06/02/2024
+
+Today I've decided to continue learning the Google Data Analytics course, let's try to finish it by the end of the month.
+Didn't learn much stuff in the video today, mostly about data cleaning which I already knew before.
