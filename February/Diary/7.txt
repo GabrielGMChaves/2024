@@ -1,0 +1,5 @@
+Day 38 - 07/02/2024
+
+Still not learning much in the Google data course, as they're now mainly focusing in teaching Excel and SQL, which I already know how to use, but is always good to get a refresher sometimes about stuff we don't use that often.
+
+I've seen some functions from Excel and some simple queries from SQL today.
