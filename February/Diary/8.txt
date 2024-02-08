@@ -1,0 +1,3 @@
+Day 39 - 08/02/2024 
+
+Today I've watched some more of the Google course and learned about the importance of documenting the changes and the steps that took place into the data cleaning process, and also learned about how important it is to have a back up of the original dataset you're going to work with.
