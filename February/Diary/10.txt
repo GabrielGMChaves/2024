@@ -1,0 +1,15 @@
+Day 41 - 10/02/2024
+
+Today I've decided to spend some time to actually learn a little bit about tensorflow, I'll be watching this video (https://www.youtube.com/watch?v=tPYj3fFJGjk) till I finish it an hopefully I'll learn tons of cool stuff about neural networks, AI an all that stuff.
+
+Summary of what was discussed today:
+
+AI:
+Any intelligence developed to mimic/copy human actions, such as the enemies we have on games, chatbots and LLMs.
+
+ML:
+Feed data to the computer, it learns about the topic and tries to predict outputs.
+
+NN for DL:
+A layered type of Machine learning, where data is going to be transformed by different layers.
+
