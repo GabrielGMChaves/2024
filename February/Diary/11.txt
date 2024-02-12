@@ -1,0 +1,13 @@
+Day 42 - 11/02/2024
+
+In this day, I've watched some more of the Tensorflow video, where Tim explained a bit more about numpy and the shapes that arrays can have.
+Although I've seen some of this before in other courses, is always good to have a refresh about unsupervised, supervised and reinforcement methods for machine learning, so here's the breakdown of them:
+
+Unsupervised:
+You dump loads of untitled data into the algorithm and it finds patterns in it.
+
+Supervised:
+The data in this case is edited to contain titles and you may even send some of the possible expected outputs for the algorigthm to work with.
+
+Reinforcement: 
+This is basically a type of ML where the machine receive "reward points" based on how good their action was, so it learns how to get the maximum amount of points based on what you've defined is the best outcome.
