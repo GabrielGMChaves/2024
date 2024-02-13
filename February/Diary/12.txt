@@ -1,0 +1,5 @@
+Day 43 - 12/02/2024
+
+Today I've watched some more the Google course, and most of what was discussed was basically floating towards the VLOOKUP and joins from SQL, also how to work with subqueries and some other stuff.
+In the meanwhile, I've stumbled accross a video from some youtubers discussing about "programmers mindset" and how to escape the "tutorial hell", which I found really interesting, now I'll probably have a different approach to this whole learning path I'm working on. Probably a good idea to actually start doing something instead of being stuck in tutorials.
+Although is a good idea to learn something each day, we've got to put it into practice to really learn about the real deal and the day-to-day struggles.
