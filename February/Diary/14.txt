@@ -1,0 +1,3 @@
+Day 45 - 14/02/2024
+
+Today I've spent some more time working on the data analysis of the game, still not finished tho. Found some better ideas, applied them and I'm not satisfied yet with the result. I've already developed the score system for the items and their "efficiency", there's still room for me to analyze the risk of going on each moon. So that's what I'll do tomorrow.
