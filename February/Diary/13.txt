@@ -1,0 +1,5 @@
+Day 44 - 13/02/2024
+
+While I was playing Lethal Company, I stumbled upon a question: "What is the best moon to collect items?".
+Then I procceeded to spend 4 hours developing a research, weighing the quantity and quality of items from each map to decide which one was the best.
+This is somewhat related to data analysis, so it's a good idea for me to learn more about this.
