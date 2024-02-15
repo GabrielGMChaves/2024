@@ -1,0 +1,4 @@
+Day 46 - 15/02/2024
+
+Today I’ve learned a great lesson, do your research before you start creating/manipulating data; because someone might have collected the exact data you needed to start the analysis. 
+I’ve learned that the hard way, I’ve spent quite a long time collecting and developing a “Score System” to analyze some data just to find out that somebody had already done this before and the data was there the whole time. No worries though, I will just use the data and make the analysis as I would do this before.
