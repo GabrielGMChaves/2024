@@ -1,0 +1,4 @@
+Day 48 - 17/02/2024
+
+Today I've learned how to use some Python libraries and developed a code that does face recognition and another one that tells what my age is and what's my emotion based on live data from my webcam.
+That's it.

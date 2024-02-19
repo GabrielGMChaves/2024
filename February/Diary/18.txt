@@ -1,0 +1,7 @@
+Day 49 - 18/02/2024
+
+Yesterday I've forgot to do my daily task to post what I did on my diary, but that does not mean I've forgot to actually study or do something new.
+I've spent the day working on 3 different projects about the DeepFace thingy. I've learned how to make it detect if a face matches another specific one, then to detect the faces and their emotions, age, race and gender, then another code to make it detect which person is in the frame in the given moment.
+It was really good to learn more about the capabilities of AI and how to actually use them in a code.
+After I fix the bugs in the code, I'll make sure to upload it in GitHub.
+Also, I've finished module 5 on the Google Data Analytics course :)
