@@ -1,0 +1,4 @@
+Day 50 - 19/02/2024
+
+Today I've worked a bit more on the Python code but I still need to fix a couple of things about it before actually posting it.
+I'll complete it tomorrow with the 3 different codes we can use for 3 different cases, maybe I'll even try to put a little display where you can choose which one you want, let's see how it goes.
