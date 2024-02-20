@@ -1,0 +1,5 @@
+Day 51 - 20/02/2024
+
+Today I've fixed all 3 codes, cleaned them the best as I could and they're now ready to be used.
+They're all simple projects, made only to explore the uses of DeepFace, which can analyze, find and extract emotions from faces using ML models.
+From tomorrow on, I'll be focusing on learning some more about ML and how to actually build a model that learns about something and produces valuable output.
