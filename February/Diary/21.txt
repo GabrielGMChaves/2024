@@ -1,0 +1,3 @@
+Day 52 - 21/02/2024
+
+Today I've mostly spent my time working on some SQL and Python tests and training some more about those 2.
