@@ -1,0 +1,4 @@
+Day 53 - 22/02/2024
+
+Today I've spent most of my time trying to develop an windows app as close as the one that they have on my gym, where it uses face detection to enable users to get into the gym.
+I'll post it once it's done.
