@@ -1,0 +1,9 @@
+Day 54 - 23/02/2024
+
+Work done!
+I've completed the Python code that basically does what the one on my gym do.
+It checks constantly for a face on the screen and when it finds one, it checks wheter it is on the img database or not.
+When it finds somebody who is in the database, it lets the person in.
+The code needs some more cleaning and I could probably have done some better stuff with the visuals but I've figured I won't spend more time on it since I feel like I've learned what I needed.
+
+Also spent some time learning about Grafana and Metabase. 
