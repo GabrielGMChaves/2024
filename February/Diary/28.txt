@@ -1,0 +1,17 @@
+Day 59 - 28/02/2024
+
+Finally let's now go to the good part!
+This Module is going to discuss all sorts of different stuff about Data Visualization, here's some of what I've learned:
+
+https://informationisbeautiful.net/visualizations/what-makes-a-good-data-visualization/
+
+To build effective data visualization you will need the following 4:
+
+- Information (data): The data which you're working 
+- Story (concept): A clear narrative or concept
+- Goal (function): A specific objective for the visual
+- Visual Form (metaphor): An Effective uise of metaphor or visual expression
+
+https://datavizcatalogue.com/#google_vignette
+https://informationisbeautiful.net/wdvp/gallery-2019/
+
