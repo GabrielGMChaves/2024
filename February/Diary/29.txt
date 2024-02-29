@@ -1,0 +1,10 @@
+Day 60 - 29/02/2024
+
+Today was not as productive as I would imagine it would be, I had some other stuff to deal with that made me lose focus, but I've managed to finish Module 1's challenge and tomorrow I'll be learning more about Tableau.
+Here's some of what I've learned today:
+
+Data visualization needs to be accessible by everyone, we need to think about the many people that may have disabilies and adapt our visualizations so they can better understand it.
+
+Correlation in statistics is the measure of the degree to which two variables move in relationship to each other. An example of correlation is the idea that “As the temperature goes up, ice cream sales also go up.” It is important to remember that correlation doesn’t mean that one event causes another. But, it does indicate that they have a pattern with or a relationship to each other. If one variable goes up and the other variable also goes up, it is a positive correlation. If one variable goes up and the other variable goes down, it is a negative or inverse correlation. If one variable goes up and the other variable stays about the same, there is no correlation.
+
+Causation refers to the idea that an event leads to a specific outcome. For example, when lightning strikes, we hear the thunder (sound wave) caused by the air heating and cooling from the lightning strike. Lightning causes thunder.  
