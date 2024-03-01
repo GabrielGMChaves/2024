@@ -1,0 +1,4 @@
+Day 61 - 01/03/2024
+
+Today I spent some time trying to create some visualizations with Tableau Public and completed Module 2 from the Course, let's hope I have sufficient time tomorrow to complete modules 3 and 4 to finish this part.
+I'm really anxious to learn more about Tableau and R.
