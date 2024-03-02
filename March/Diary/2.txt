@@ -1,0 +1,8 @@
+Day 62 - 02/03/2024
+
+Today I've completed another module from the course and spent some time studying some visualizations to learn from them.
+I've learned that we need to pay close attention to our stakeholders and build the whole data storytelling in a way that our target audience is able to easily digest.
+Whenever we're doing a visualization, we need to think what message and what story do we want to share from it.
+We also should try to narrow the visualization to only include what's needed and requested from our stakeholders, so we avoid confusion or misunderstandings.
+It's a good idea to include only five lines and 25 words per slide in our presentations, so we can keep on focus what's being discussed without boring or confusing our audience.
+My focus tomorrow will be to finish this Module, that's it.
