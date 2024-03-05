@@ -1,0 +1,3 @@
+Day 65 - 05/03/2024
+
+Today I've spent some time learning about Grafana and Prometheus, and I'll challenge myself to complete some tasks using them, but first I need to know how to use them.
