@@ -1,0 +1,3 @@
+Day 66 - 06/03/2024
+
+Spent some more time completing the challenge with Pormetheus and Grafana and finished the first part of the challenge, now I need to actually do the visualizations and the presentation and also find some way to use the data I've got to analyze it (that's part of the challenge).
