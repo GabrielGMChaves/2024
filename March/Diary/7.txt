@@ -1,0 +1,3 @@
+Day 67 - 07/03/2024
+
+Not many news today, I've basically spent my time to complete the data analysis of the first part of the challenge and build an markdown file breaking down what I've found about the numbers in the csv files. 
