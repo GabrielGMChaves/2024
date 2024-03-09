@@ -1,0 +1,3 @@
+Day 69 - 09/03/2024
+
+Spent the whole day today figuring out how to make alerts for grafana and then I've decided I'll need to make a datasource from an SQL source somehow to create the alerts, let's keep on trying that tomorrow.
