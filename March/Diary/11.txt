@@ -1,0 +1,4 @@
+Day 71 - 11/03/2024
+
+Today was a good day, I've managed to finish the code and the challenge and posted it on my GitHub page.
+It was really good to learn a bit more about how to use Grafana and Prometheus for data monitoring.
