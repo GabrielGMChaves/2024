@@ -1,0 +1,3 @@
+Day 70 - 10/03/2024
+
+Today I've made a Python code, it is quite complicated to explain what it does, but basically it reads a pre-cleaned csv file with a bunch of lines with timestamps, it gathers the info from the csv based on the given time and collect lines where the status is in reversed, failed and denied, to later check the count column to check how many of those transactions failed, reversed or were denied, when it detects an anomaly it sends an email via fakeSMTP. That's it.
