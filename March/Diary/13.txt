@@ -1,0 +1,3 @@
+Day 73 - 13/03/2024
+
+Feeling kinda sick today, so I decided to only do the first module from the course, installed RStudio, learned how to manage packages and use ggplot for simple plotting.
