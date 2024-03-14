@@ -1,0 +1,15 @@
+Day 74 - 14/03/2024
+
+Felling way better today, spent some time learning about variables, logical operators, conditional operators and some functions in R, here are some that I can remember:
+
+c() creates a vector
+list() creates a list
+matrix() creates a matrix
+print() prints text
+* - + /
+& | ! AND, OR, NOT
+x <- creates a variable
+class(x) returns data type
+== != > < >= <=
+
+if () { 	} else
