@@ -1,0 +1,3 @@
+Day 78 - 18/03/2024
+
+Today I've started planning the case study A from the course, where we have to analyze a bike-share company to answer some few key questions about the customers and about marketing. It is going to be a good starting point for me.
