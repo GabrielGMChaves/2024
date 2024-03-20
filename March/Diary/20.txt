@@ -1,0 +1,5 @@
+Day 80 - 20/03/2024
+
+Today I took the day to mainly review some Python codes I've developed and learn what I could've done better. This sort of practice is really good because it highlights our flaws and we can truly see what we've missed and how better could it be.
+
+Learning every day :)
