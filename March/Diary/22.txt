@@ -1,0 +1,3 @@
+Day 82 - 22/03/2024
+
+Today I've spent the day studying a bit more about Python and SQL. Did some more challenges to get ready for future challenges.
