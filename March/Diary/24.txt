@@ -1,0 +1,3 @@
+Day 84 - 24/03/2024
+
+Today I've started learning a bit more about Power BI, I've downloaded it and followed a tutorial to do some basic data manipulation and visualization.
