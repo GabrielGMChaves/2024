@@ -1,0 +1,3 @@
+Day 87 - 27/03/2024
+
+Same as yesterday, read some more pages on the book and learned a bit more about Python basics.
